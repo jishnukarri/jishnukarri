@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jydevlopers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jydevlopers" height="30" width="40" /></a>
-<a href="https://fb.com/jydevelopers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jydevelopers" height="30" width="40" /></a>
-<a href="https://instagram.com/jydeveopers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jydeveopers" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jy app developers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jy app developers" height="30" width="40" /></a>
+<a href="https://www.facebook.com/JYDEVELOPERS/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jydevelopers" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jydeveopers/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jydeveopers" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChHXagaS2DyduM8MTpRjsUg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jy app developers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
