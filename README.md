@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://44qxbs-my.sharepoint.com/:i:/g/personal/jishnu_microsoft_jvfacts_in/ERnBJWBhvxxPnWGAl2p5QPYBWOHmU-4UBkqOu6PtPhq3tA?e=29MM8D&download=1" alt="cover" />
+<img width="100%" height = "400px" src="https://44qxbs-my.sharepoint.com/personal/jishnu_microsoft_jvfacts_in/Documents/Coding/Github%20Image.png?ga=1" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
